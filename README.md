@@ -8,3 +8,8 @@ Arrays are rigid in the sense that they cannot change in size once the program r
 Array lists are more flexible than arrays. The array list can change size after the program has been run. Array lists are best used for user input of unknown size, as the array list can grow to fit the program's needs. To remove a value from an ArrayList, the .remove() method will remove the value in the designated element while retaining the ArrayList value order. To add a value, the .add(element value, data to store) will add the data to a designated element location, inserting the data and retaining the element data order. 
  
 It is important to consider the data being used and the actions being performed in your program when deciding whether to use an array or an array list. Knowing the differences between the two can save time and debugging headaches.  
+
+Resources:
+Horstmann, C. S. (2017). Big Java Late Objects. Wiley.
+
+‌
