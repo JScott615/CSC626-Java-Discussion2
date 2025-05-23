@@ -1,4 +1,4 @@
-# CSC626-Java-Discussion2
+# CSC626-Java-Discussion3
 Repository for Intro to Java classwork
 
 Arrays and ArrayLists are an essential part of Java programs that are used to store a series of data points of the same type. Whether storing user input, numerical series, or separate strings of text, both arrays and array lists are an ideal method to store multiple data points without requiring a different variable in the program for each one. With both, a variable type must be designated when the array or array list is initialized. The main difference between arrays and array lists is that the size of an array must be declared at the time the program is compiled, while the size of an array list can change after the program has been compiled and run.
